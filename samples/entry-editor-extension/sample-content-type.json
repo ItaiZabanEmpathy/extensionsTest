@@ -1,5 +1,5 @@
 {
-  "name": "Article",
+  "name": "Probate Test",
   "description": "An article with an optional abstract field.",
   "displayField": "title",
   "fields": [
