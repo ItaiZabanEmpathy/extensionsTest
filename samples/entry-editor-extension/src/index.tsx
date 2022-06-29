@@ -34,7 +34,7 @@ class App extends React.Component<AppProps, AppState> {
     this.state = {
       title: props.sdk.entry.fields.title.getValue(),
       body: props.sdk.entry.fields.body.getValue(),
-      abstract: props.sdk.entry.fields.abstract.getValue(),
+      abstract: props.sdk.entry.fields.abstractt.getValue(),
       hasAbstract: props.sdk.entry.fields.hasAbstract.getValue()
     };
   }
